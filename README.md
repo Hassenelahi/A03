@@ -11,10 +11,10 @@ Tutorial on how to step up Github:
 Tutorial on how to set up Webstorm:
 1. First go to this link: https://www.jetbrains.com/community/education/#students
 2. Apply for free student license with school email
-3. Check email for verification email and click on the link that is in it
+3. Check email for verification link
 4. Accept terms and conditions
 5. Verify JetBrains account and create a password
-6. Log in and download the right Webstorm version from your computer from the student product package
+6. Log in and download the right Webstorm version for your computer from the student product package
 7. Install Webstorm and open the application
 
 

@@ -8,6 +8,20 @@ Tutorial on how to step up and use Github:
 7. To make your repository into a live website, go to the settings in the repository and click on "pages"
 8. Choose a theme and your repository will become a live website with a url
 
+Tutorial on how to set up Webstorm:
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
 Glossary Terms: 
 
 Branch -  A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches.
@@ -33,3 +47,7 @@ Pull - Pull refers to when you are fetching in changes and merging them.
 Remote - This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
 
 Repository - A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history.
+
+References: 
+https://docs.github.com/en/get-started/quickstart/github-glossary
+https://blog.devmountain.com/git-vs-github-whats-the-difference/

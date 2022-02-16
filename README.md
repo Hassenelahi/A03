@@ -1,4 +1,4 @@
-Tutorial on how to step up and use Github:
+Tutorial on how to step up Github:
 1. Go to Github.com 
 2. Create an account with a username and password
 3. Using the dropdown menu on the top right of your screen, you can go to mulitple things such as your profile, repositories, and projects
@@ -9,17 +9,13 @@ Tutorial on how to step up and use Github:
 8. Choose a theme and your repository will become a live website with a url
 
 Tutorial on how to set up Webstorm:
-1. 
-
-
-
-
-
-
-
-
-
-
+1. First go to this link: https://www.jetbrains.com/community/education/#students
+2. Apply for free student license with school email
+3. Check email for verification email and click on the link that is in it
+4. Accept terms and conditions
+5. Verify JetBrains account and create a password
+6. Log in and download the right Webstorm version from your computer from the student product package
+7. Install Webstorm and open the application
 
 
 Glossary Terms: 
@@ -49,5 +45,6 @@ Remote - This is the version of a repository or branch that is hosted on a serve
 Repository - A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history.
 
 References: 
+
 https://docs.github.com/en/get-started/quickstart/github-glossary
 https://blog.devmountain.com/git-vs-github-whats-the-difference/

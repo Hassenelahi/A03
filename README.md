@@ -1,4 +1,4 @@
-Tutorial on how to step up Github:
+Tutorial on how to set up Github:
 1. Go to Github.com 
 2. Create an account with a username and password
 3. Using the dropdown menu on the top right of your screen, you can go to mulitple things such as your profile, repositories, and projects
